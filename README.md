@@ -1,5 +1,5 @@
 # Full Stack Mobile Developer Roadmap 2018
-Roadmap for becoming a full stack mobile developer in 2018 and beyond.
+An opinionated set of technologies one can learn to cater to most of the development related requirements in mobile space.
 
 ![roadmap diagram](diagram.svg)
 
